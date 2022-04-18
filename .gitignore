@@ -27,7 +27,6 @@ yarn-debug.log*
 yarn-error.log*
 .cache/*
 Contract/target
-Dist/
 .idea/
 package-lock.json
 yarn.lock
