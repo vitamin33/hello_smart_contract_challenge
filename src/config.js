@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'hello_smart_contract_challenge.apteka.testnet'
+const CONTRACT_NAME = process.env.CONTRACT_NAME ||'apteka.testnet'
 
 function getConfig(env) {
   switch (env) {
